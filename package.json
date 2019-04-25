@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsbuddy/SimplyFi-nance.git"
+    "url": "git+https://github.com/dsbuddy/SimpliFi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dsbuddy/SimplyFi-nance/issues"
+    "url": "https://github.com/dsbuddy/SimpliFi/issues"
   },
-  "homepage": "https://github.com/dsbuddy/SimplyFi-nance#readme",
+  "homepage": "https://github.com/dsbuddy/SimpliFi#readme",
   "dependencies": {
     "@google-cloud/language": "^2.1.0",
     "cors": "^2.8.5",
